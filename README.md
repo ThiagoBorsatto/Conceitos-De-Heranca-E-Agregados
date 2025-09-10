@@ -1,4 +1,5 @@
 Este é um algoritmo de uma das atividades realizadas em sala de aula, na matéria de programação orientada a objetos (POO), onde foram praticados os conceitos de herança e agregadores, o algoritmo deveria atender os seguintes requisitos:
+
 ● Desenvolva um novo projeto Java para aplicar os conceitos de Herança e Agregação / Composição. 
 
 ● Seu projeto deverá possuir as seguintes entidades: 
